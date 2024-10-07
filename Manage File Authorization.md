@@ -1,4 +1,4 @@
-# Bash Scripting: Configuring File Permissions in Linux
+# Configuring File Permissions in Linux
 
 ## Objective
 
