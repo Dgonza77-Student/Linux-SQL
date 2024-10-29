@@ -26,6 +26,7 @@ With the server connected and the databse named, we begin to create our first ta
 
 Only issue is that the above image shows the table designer mode of SSMS and for the sake of this project we want to demonstrate SQL knowledge so we navigate to the left toolbar and click "New Query" which allows me to type the contents of my table
 
+### 2. Creating the Table
 
 I begin to create my first table by using the “CREATE TABLE (TABLE NAME)” Command
 And input the characteristics
@@ -55,6 +56,7 @@ And for the last table, bed, we input the attributes of bed_ID and description
 
 ![image](https://github.com/user-attachments/assets/0fb1ce5b-b5ec-40ed-ada8-ed95db60b1f3)
 
+### 3. Inserting Data into the Tables
 
 With this being done now we can begin inputting data into the tables
 
@@ -63,6 +65,10 @@ I used the command “INSERT INTO” followed by the table name and its attribut
 ![image](https://github.com/user-attachments/assets/e46b7444-4359-4804-9017-e4bc53bd7979)
 
 ![image](https://github.com/user-attachments/assets/b92eb4c0-c0b3-440e-90c2-c3bfc546b379)
+
+### 4. Querying the Data
+After inserting data, we queried each table using the SELECT * FROM command to display all records. For example:
+```SELECT * FROM Patient;```
 
 
 ![image](https://github.com/user-attachments/assets/aa913cd0-b56b-4afc-af18-eb3767501c42)
