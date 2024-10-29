@@ -18,3 +18,4 @@ In this lab, the goal is to create and manage a simple healthcare database using
 ## Steps
 
 ### 1. Setting up the Environment
+![image](https://github.com/user-attachments/assets/9dff43c7-9f9b-48d1-a350-24b425c77e2a)
